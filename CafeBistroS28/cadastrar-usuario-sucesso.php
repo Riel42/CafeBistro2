@@ -19,7 +19,7 @@
 <body>
 <main>
     <section class="container-admin-banner">
-        <img src="img/logo-ifsp-removebg.png" class="logo-admin" alt="logo-serenatto">
+        <img src="img/logo-serenatto-horizontal.png" class="logo-admin" alt="logo-serenatto">
         <h1>Cadastro realizado com sucesso</h1>
         <img class= "ornaments" src="img/ornaments-coffee.png" alt="ornaments">
     </section>

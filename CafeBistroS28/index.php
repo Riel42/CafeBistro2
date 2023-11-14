@@ -28,7 +28,7 @@ require_once("menu.php");
     <main>
         <section class="container-banner">
             <div class="container-texto-banner">
-                <img src="img/logo-ifsp-removebg.png" class="logo" alt="logo-serenatto">
+                <img src="img/logo-serenatto-horizontal.png" class="logo" alt="logo-serenatto">
             </div>
         </section>
         <h2>Cardápio Digital</h2>

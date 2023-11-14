@@ -18,7 +18,7 @@
 <body>
 <main>
   <section class="container-admin-banner">
-    <img src="img/logo-ifsp-removebg.png" class="logo-admin" alt="logo-IFSP">
+    <img src="img/logo-serenatto-horizontal.png" class="logo-admin" alt="logo-Serenatto">
     <h1>Admistração IFSP Café Bistrô</h1>
     <img class= "ornaments" src="img/ornaments-coffee.png" alt="ornaments">
   </section>
@@ -58,9 +58,9 @@
           </form>
         </td>
         <td>
-          <form action="editar-produto.php" method="GET">
+          <form action="excluir-produto.php" method="POST">
             <input type="hidden" name="id" value="<?= $row['id'] ?>">
-            <input type="button" class="botao-excluir" value="Excluir">
+            <input type="submit" class="botao-excluir" value="Excluir">
           </form>
         </td>
         
