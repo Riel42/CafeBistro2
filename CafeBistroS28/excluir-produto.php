@@ -24,7 +24,7 @@ $id = $_POST["id"];
             $stmt->close();
             $conn->close();
 
-            header("Location: excluir-produto-sucesso.php");
+            header("Location: erro-excluir.php");
             exit();
         }
     }
